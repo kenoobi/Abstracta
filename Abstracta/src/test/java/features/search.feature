@@ -1,5 +1,6 @@
 Feature: Search a product validate and remove
 
+  @SearchProductScenario
 Scenario: Search product
   Given start the web
   When search product "Iphone"

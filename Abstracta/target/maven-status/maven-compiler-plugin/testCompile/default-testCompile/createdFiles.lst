@@ -1,0 +1,4 @@
+org\example\AppTest.class
+stepDefinitions\Steps.class
+runners\runTest.class
+stepDefinitions\seleniumTest.class
